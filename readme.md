@@ -1,6 +1,7 @@
 ## welcome to git
 
-## this is from adrian
 
+## yo yo everyone welcome to git
+## this is from adrian
 
 ## this the feature i what to add
